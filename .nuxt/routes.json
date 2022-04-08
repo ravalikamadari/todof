@@ -1,0 +1,44 @@
+[
+  {
+    "name": "alltodos",
+    "path": "/alltodos",
+    "component": "D:\\\\todof\\\\pages\\\\alltodos.vue",
+    "chunkName": "pages/alltodos",
+    "_name": "_3bfd64d4"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\todof\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_86c3b99e"
+  },
+  {
+    "name": "mytodos",
+    "path": "/mytodos",
+    "component": "D:\\\\todof\\\\pages\\\\mytodos.vue",
+    "chunkName": "pages/mytodos",
+    "_name": "_fc6f4aee"
+  },
+  {
+    "name": "tasks",
+    "path": "/tasks",
+    "component": "D:\\\\todof\\\\pages\\\\tasks.vue",
+    "chunkName": "pages/tasks",
+    "_name": "_2eec14d6"
+  },
+  {
+    "name": "UserRegister",
+    "path": "/UserRegister",
+    "component": "D:\\\\todof\\\\pages\\\\UserRegister.vue",
+    "chunkName": "pages/UserRegister",
+    "_name": "_1e9bdf96"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\todof\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1a12ffcc"
+  }
+]
